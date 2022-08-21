@@ -6,8 +6,7 @@
 **/mvnw
 **/mvnw.cmd
 **/.mvn/**/**
-**/src/main/**/target/
-**/src/test/**/target/
+**/**/target/
 
 
 ### IntelliJ IDEA ###
@@ -45,3 +44,4 @@ build/
 .DS_Store
 /.mvn/
 /.idea/
+/target/
